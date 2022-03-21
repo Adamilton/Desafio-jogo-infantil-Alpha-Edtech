@@ -1,5 +1,5 @@
 # DESAFIO: Jogo infantil educativo
-👥 Adamilton, Caique, Gislene, Paola, Talita e Vitor
+👥 Adamilton, Adriana, Brenda,Paola, Pedro e Victor
 
 > *EM BREVE:* todos os critérios que tivemos que atender na execução deste desafio!
 
